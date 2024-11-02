@@ -5,9 +5,11 @@
 
 Basic ICMP Documentation
 ========================
+GROUP 14
 
-Please add your names and group ID here by editing `index.rst` in the docs folder.
+Mert Cenk Yediparmak
 
+Emre Burak Bakdemir
 
 .. toctree::
    :maxdepth: 2
